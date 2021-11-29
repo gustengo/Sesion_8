@@ -123,6 +123,8 @@ main > aside:last-child > div:nth-child(1) > div:first-child > p:nth-child(2) {
   font-size: 0.9rem;
   padding-bottom: 1rem;
   color: #197aff;
+  font-family: "Roboto Mono", monospace;
+  font-weight: bolder;
 }
 main > aside:last-child > div:nth-child(1) > div:first-child > p:last-child {
   font-size: 1.05rem;
